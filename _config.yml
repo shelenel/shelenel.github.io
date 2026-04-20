@@ -1,9 +1,9 @@
-title: Parchment
-author: pro-panda
-subtitle: The life of a frustrated engineer
+title: Shelene Low
+author: Shelene Low
+subtitle: 
 
-url: "https://rahulbothra.com"
-baseurl: "/parchment"
+url: "https://shelenel.github.io"
+baseurl: ""
 
 footer_only_homepage: true
 footer_url: "https://github.com/rhl-bthr"
@@ -21,4 +21,4 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "https://rahulbothra.com/cv.pdf"
+   absolute-link: ""
