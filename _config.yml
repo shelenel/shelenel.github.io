@@ -22,3 +22,4 @@ navbar:
    link: "about"
  - name: "CV"
    absolute-link: "https://shelenel.github.io/files/cv.pdf"
+   target: "_blank"
