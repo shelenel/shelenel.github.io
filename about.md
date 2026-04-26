@@ -29,7 +29,7 @@ The Hague, The Netherlands
 Python, R, HTML, CSS
 
 ### Softwares
-QGIS, GIS, Rhinocerous 3D, Adobe applications (Illustrator, Photoshop, InDesign)
+QGIS, GIS, Rhinoceros 3D, Adobe applications (Illustrator, Photoshop, InDesign)
 
 
 ## Languages
