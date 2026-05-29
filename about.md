@@ -4,7 +4,7 @@ title: About me
 ---
 
 ### Hello, thanks for visiting! 
-### I am Shelene, a digital archaeologist and graphic designer based in the Netherlands. 
+### I am Shelene, a (digital) archaeology student and graphic designer based in the Netherlands. 
 
 I have an unusual education background, starting from a formal education in graphic design before pivoting to archaeology (my childhood dream!) and soon, geomatics. 
 
